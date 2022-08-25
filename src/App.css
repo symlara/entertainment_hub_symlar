@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Montserrat:wght@100&family=Roboto:wght@100&display=swap");
 
-@import "react-alice-carousel/lib/alice-carousel.css";
+
 
 * {
   scroll-behavior: smooth;
@@ -241,4 +241,9 @@ body {
   border-radius: 10px;
   margin-bottom: 5px;
   box-shadow: 0px 0px 5px black;
+}
+
+.search {
+  display: flex;
+  margin: 15px 0;
 }
